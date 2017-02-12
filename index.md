@@ -13,7 +13,7 @@ title: JS 独孤求败
         <a href="https://github.com/happypeter">happypeter</a>
       </div>
       <p class='book-description'>
-        《 JS 独孤求败》是一本把你从零基础学员变成一个编程高手的厚厚的书。
+        《 JS 猴子》是一本通俗加实用的 Javascript 入门书。
       </p>
       <a href="#toc" class="read-btn">开始阅读</a>
     </div>
