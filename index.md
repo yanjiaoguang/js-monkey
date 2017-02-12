@@ -21,7 +21,7 @@ title: JS 独孤求败
   </div>
 </section>
 <div class="divider">
-  <a href="#">PLACEHOLDER</a>
+  <a href="https://github.com/happypeter/js-monkey/commits/gh-pages">最近更新 Feb 12, 2017</a>
 </div>
 <div class="reviewers">
   <div class="name-card">
