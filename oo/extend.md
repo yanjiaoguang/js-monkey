@@ -1,13 +1,6 @@
 ---
-title: class 和 constructor
+title: 类的继承是个啥？
 ---
-
-### 2016年末职场展望
-
-> Every Business is Softare Business!
-
-平面界面未来会和 VR 和 AI 共同瓜分界面市场。但是可预见的未来，Peter 自己的
-估计，平面 UI 开发依然是市场主流，需求火爆。
 
 ### 面向对象小案例
 
