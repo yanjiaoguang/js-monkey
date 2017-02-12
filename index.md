@@ -1,6 +1,6 @@
 ---
 layout: default
-title: JS 独孤求败
+title: JS 猴子
 ---
 
 <section class='book'>
@@ -15,7 +15,7 @@ title: JS 独孤求败
       <p class='book-description'>
         一本通俗加实用的 Javascript 入门书，涵盖 ES6。
       </p>
-      <a href="#toc" class="read-btn">开始阅读</a>
+      <a href="http://github.com/happypeter/js-monkey" class="read-btn">Github 仓库</a>
     </div>
     <img alt="git" class="book-image" src="images/book-cover.jpg"/>
   </div>
