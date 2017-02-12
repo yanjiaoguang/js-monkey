@@ -30,7 +30,7 @@ title: JS 猴子
       <div class="name">
        happypeter
       </div>
-      <div class="job-title"><a href="http://haoduoshipin.com">本书作者，好多视频网作者</a></div>
+      <div class="job-title"><a href="http://haoqicat.com">本书作者，好奇猫主理</a></div>
       JS 吃世界。
     </div>
   </div>
