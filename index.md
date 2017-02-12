@@ -7,13 +7,13 @@ title: JS 独孤求败
   <div class='wrapper-inside clearfix'>
     <div class='top-large'>
       <div class='book-title'>
-        JS 独孤求败
+        JS 猴子
       </div>
       <div class='book-author'>
         <a href="https://github.com/happypeter">happypeter</a>
       </div>
       <p class='book-description'>
-        《 JS 猴子》是一本通俗加实用的 Javascript 入门书。
+        一本通俗加实用的 Javascript 入门书，涵盖 ES6。
       </p>
       <a href="#toc" class="read-btn">开始阅读</a>
     </div>
